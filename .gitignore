@@ -2,3 +2,7 @@
 .env/
 .idea/
 data
+.DS_Store
+.venv/
+.*
+*.png

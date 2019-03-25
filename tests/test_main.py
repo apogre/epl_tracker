@@ -1,5 +1,5 @@
 import unittest
-from main import get_points_tally
+from gen import get_points_tally
 
 
 class MyTestCase(unittest.TestCase):
